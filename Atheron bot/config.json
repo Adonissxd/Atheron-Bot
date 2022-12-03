@@ -1,0 +1,7 @@
+{
+    "token": "BOT_TOKEN",
+    "owner": "BOT_OWNER_ID",
+    "prefix": "!",
+    "mongoUrl": ""
+
+}
