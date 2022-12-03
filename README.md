@@ -1,4 +1,4 @@
-# Atheron-Bot
+# İlk zamanlarda yaptığım onaylı bot altyapısı sıkıntısız bir şekilde paylaşıldı. 🎉
 
 ![image](https://cdn.discordapp.com/attachments/1018142990700646450/1048513382388609034/image.png)
 ![image](https://cdn.discordapp.com/attachments/1018142990700646450/1048513526089666650/image.png)
